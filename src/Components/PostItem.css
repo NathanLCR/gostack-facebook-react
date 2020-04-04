@@ -1,0 +1,26 @@
+.post-container {
+  width: 100%;
+  margin-top: 32px;
+  background: white;
+  padding: 20px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+.post-container p {
+  margin: 8px 0 16px 0;
+  font-size: 14px;
+}
+.profile-avatar {
+  width: 32px;
+  float: left;
+  border-radius: 100px;
+}
+.post-container div:first-child p {
+  font-size: 11px;
+  margin-left: 5px;
+  margin-top: 0;
+}
+.post-container div h3 {
+  font-size: 14px;
+}

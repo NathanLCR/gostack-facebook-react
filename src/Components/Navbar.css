@@ -1,0 +1,15 @@
+nav {
+  height: 64px;
+  background: #4a90e2;
+  display: flex;
+  justify-content: space-between;
+  padding: 0 64px;
+  align-items: center;
+}
+nav img {
+  height: 24px;
+  border-radius: none;
+}
+nav h3 {
+  color: white;
+}

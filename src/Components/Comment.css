@@ -1,0 +1,19 @@
+.comment-content {
+  margin-top: 16px;
+}
+.comment-content img {
+  width: 28px;
+  border-radius: 100px;
+  float: left;
+}
+.comment-content div {
+  background: #eeeeee;
+  border-radius: 32px;
+  width: 600px;
+  padding: 15px;
+  margin-left: 30px;
+  font-size: 13px;
+}
+.comment-content div span {
+  font-weight: bold;
+}
